@@ -1,0 +1,15 @@
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/bin/Debug/net7.0/arrayListapp
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/bin/Debug/net7.0/arrayListapp.deps.json
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/bin/Debug/net7.0/arrayListapp.runtimeconfig.json
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/bin/Debug/net7.0/arrayListapp.dll
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/bin/Debug/net7.0/arrayListapp.pdb
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.csproj.AssemblyReference.cache
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.AssemblyInfoInputs.cache
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.AssemblyInfo.cs
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.csproj.CoreCompileInputs.cache
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.dll
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/refint/arrayListapp.dll
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.pdb
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/arrayListapp.genruntimeconfig.cache
+/Users/samirhasanli/Projects/arrayListapp/arrayListapp/obj/Debug/net7.0/ref/arrayListapp.dll
